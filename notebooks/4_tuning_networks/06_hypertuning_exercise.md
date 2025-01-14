@@ -38,7 +38,7 @@ Dont use hyperband when trying to create a heatmap! Or, at least, dont put model
 You CAN use hyperband if you want to speed up scans of big hyperparameter spaces, but always keep in mind that you DONT use this for plotting heatmaps.
 
 - Visualise your finding
-- reflect on what you see, using the theory. Please dont use chatGPT to reflect: you will get text that makes you look like an idiot. Instead, try to make mistakes, it wont be subtracted from your grade; making mistakes gives me an oportunity to correct you, which might actually help you during your exam.
+- reflect on what you see, using the theory. Please dont use chatGPT to reflect: you will get text that makes you look like an idiot. Instead, try to make mistakes, it wont be subtracted from your grade; making mistakes gives me an oportunity to correct you.
 
 
 ## Implementing
@@ -68,7 +68,7 @@ You will write a report of 1 page. Not 2, not 3. 1 page. Somehow this turns out 
 You will get a:
 - 0, which means: you will have to improve things, otherwise it will cost you points at your exam
 - 1, meaning: your work is fine. There are some things to improve, but you are on the right track.
-- 2, meaning: your work is excellent. You have done everything right, even exceeded expectations,and you have shown that you understand the material. If you do the same on the exam you will be good.
+- 2, meaning: your work is excellent. You have done everything right, even exceeded expectations,and you have shown that you understand the material. 
 
 # Common gotchas
 
